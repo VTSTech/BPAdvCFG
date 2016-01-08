@@ -1,7 +1,7 @@
 # BPAdvCFG
 # Burnout Paradise Advanced Config Tool
 
-
+* Form/Class/Module Files (.frm/.cls/.bas) do not retain proper line formatting. Convert from UNIX to DOS to avoid form loading errors.
 
 Changelog
 
