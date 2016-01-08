@@ -1,3 +1,6 @@
+# BPAdvCFG
+# Burnout Paradise Advanced Config Tool
+
 Changelog
 ———
 v0.5 12-30-15
