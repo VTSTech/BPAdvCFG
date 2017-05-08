@@ -1,9 +1,13 @@
 # BPAdvCFG
 # Burnout Paradise Advanced Config Tool
 
+<img src="http://i.imgur.com/18Eybuz.png">
+
+<a href="http://www.nigeltodman.com/2014/04/03/bpadvcfg-burnout-paradise-advanced-config-tool-v0-4-1-final-version/">Homepage</a>
+
 Changelog
 
-———
+â€”â€”â€”
 
 v0.5 12-30-15
 
@@ -185,7 +189,7 @@ Quick Bugfix in Menu Music Tweak
 
 Even more tooltips, Only 1 left
 
-Now comes with SFV file for the paranoid (I’m one of them)
+Now comes with SFV file for the paranoid (Iâ€™m one of them)
 
 Various code optimizations
 
